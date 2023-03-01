@@ -1,0 +1,30 @@
+lcls-plc-example-vacuum-serial
+------------------------------
+
+.. toctree::
+    :maxdepth: 2
+    :caption: VacSerialLibExample
+
+    VacSerialLibExample_pragmas
+    VacSerialLibExample_nc
+    VacSerialLibExample_ethercat
+    VacSerialLibExample_boxes
+    VacSerialLibExample_links
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Example
+
+    VacSerialLibExample_Example_summary
+    VacSerialLibExample_Example_epics
+    VacSerialLibExample_Example_source
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
